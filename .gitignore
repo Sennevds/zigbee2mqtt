@@ -80,3 +80,7 @@ data/extension
 
 # Ignore config
 data/*.yaml
+
+# custom
+data/home-assistant
+data/mosquitto
